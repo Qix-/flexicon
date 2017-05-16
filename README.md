@@ -2,6 +2,12 @@
 
 Flexicon is a simple [regex](https://pypi.python.org/pypi/regex/)-based lexer and tokenizer.
 
+## Installation
+
+```console
+$ pip install flexicon
+```
+
 ## Usage:
 
 ```python
