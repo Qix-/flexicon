@@ -8,7 +8,7 @@ Flexicon is a simple [regex](https://pypi.python.org/pypi/regex/)-based lexer an
 $ pip install flexicon
 ```
 
-## Usage:
+## Usage
 
 ```python
 from flexicon import Lexer
